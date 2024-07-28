@@ -1,6 +1,8 @@
 # CLEO - THE AI SALES ASSISTANT 👾
 
-CLEO is a revolutionary tool designed to streamline the sales process by gathering customer data and generating tailored sales proposals efficiently. Combining advanced language models and speech recognition technology, it enables seamless interaction via voice or text inputs, making it ideal for live conversations and phone calls. The assistant engages users interactively, extracting essential details from documents provided by customers and performing information gap analysis to ensure proposal completeness. By automating tedious tasks and improving data accuracy, it empowers sales teams to focus on building strong customer relationships and closing deals effectively.
+CLEO is a revolutionary tool  designed to streamline the sales 💹 process by gathering customer  data dand generating tailored sales proposals efficiently. Combining advanced language models and speech recognition technology 🗣️, it enables seamless interaction via voice or text inputs, making it ideal for live conversations and phone calls. 🗣️💬
+
+The assistant engages users interactively, extracting essential details from documents provided by customers and performing information gap analysis to ensure proposal completeness. 📄📊 By automating tedious tasks and improving data accuracy, it empowers sales teams to focus on building strong customer relationships and closing deals effectively. 🤝🏆
 
 ## Table of Contents
 - [Overview and Architecture](#overview-and-architechture)
