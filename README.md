@@ -14,7 +14,7 @@ CLEO is a revolutionary tool designed to streamline the sales process by gatheri
 
 1. **Overview:**
 
-   In response to the challenges faced by sales teams in gathering comprehensive customer data and generating tailored sales proposals efficiently, we propose the development of an AI-      powered Sales Assistant. This assistant leverages advanced language models (LLMs) and speech recognition technologies to streamline the sales process, enhance customer engagements, and improve the accuracy and effectiveness of sales proposals.
+   In response to the challenges faced by sales teams in gathering comprehensive customer data and generating tailored sales proposals efficiently, we propose the development of an AI-powered Sales Assistant. This assistant leverages advanced language models (LLMs) and speech recognition technologies to streamline the sales process, enhance customer engagements, and improve the accuracy and effectiveness of sales proposals.
 
    **Key Features:**
 
@@ -29,8 +29,6 @@ CLEO is a revolutionary tool designed to streamline the sales process by gatheri
    - Analytics: The admin can view all the analytics of the companies customers and interaction.
 2. **Architechture:**
 
-   Architechture Diagram
-![WhatsApp Image 2024-04-28 at 10 49 01 PM](https://github.com/Himanshu/CLEO-THE-SALES-ASSISTANT/assets/128281067/dce4d192-fb6a-4c67-b4a2-6821a36757c7)
 
 | Component            | Functionality                                                                        |
 |----------------------|--------------------------------------------------------------------------------------|
@@ -60,7 +58,7 @@ CLEO is a revolutionary tool designed to streamline the sales process by gatheri
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/SujalChoudhari/100x_Buildathon_Entropy.git
+   git clone https://github.com/Himanshu145505/CLEO-THE-SALES-ASSISTANT.git
    
 2. **Install dependancies for the frontend:**
 
@@ -116,25 +114,12 @@ CLEO is a revolutionary tool designed to streamline the sales process by gatheri
 
 ## Demo:
 - Video link - https://youtu.be/k3JLvRpqUhI
-- Call Audio (Recorded) 
+- Call Audio (Recorded)
 
 
-https://github.com/SujalChoudhari/100x_Buildathon_Entropy/assets/85174767/d1cbf54e-7aef-4fd7-9001-93f5903e25e9
+https://github.com/Himanshu145505/CLEO-THE-SALES-ASSISTANT/assets/85174767/d1cbf54e-7aef-4fd7-9001-93f5903e25e9
 
 
-- Images
-
-![img](https://github.com/SujalChoudhari/100x_Buildathon_Entropy/blob/dev/resources/Screenshot%202024-04-28%20223345.png?raw=true)
-![img](https://github.com/SujalChoudhari/100x_Buildathon_Entropy/blob/dev/resources/Screenshot%202024-04-28%20223410.png?raw=true)
-![img](https://github.com/SujalChoudhari/100x_Buildathon_Entropy/blob/dev/resources/Screenshot%202024-04-28%20223637.png?raw=true)
-![img](https://github.com/SujalChoudhari/100x_Buildathon_Entropy/blob/dev/resources/Screenshot%202024-04-28%20223842.png?raw=true)
-![img](https://github.com/SujalChoudhari/100x_Buildathon_Entropy/blob/dev/resources/Screenshot%202024-04-28%20223859.png?raw=true)
-![img](https://github.com/SujalChoudhari/100x_Buildathon_Entropy/blob/dev/resources/Screenshot%202024-04-28%20223918.png?raw=true)
-
-
-## API Documentation
-
-- Link: https://one00x-buildathon-entropy.onrender.com/docs
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
