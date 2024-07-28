@@ -113,7 +113,7 @@ CLEO is a revolutionary tool designed to streamline the sales process by gatheri
 - password: pass
 
 ## Demo:
-- Video link - https://youtu.be/k3JLvRpqUhI
+- Video link - https://drive.google.com/file/d/1PsLNQ4fjz13_P5Yx5KsYtPi3qndbGnLh/view?usp=drive_link
 - Call Audio (Recorded)
 
 
@@ -128,4 +128,4 @@ https://github.com/Himanshu145505/CLEO-THE-SALES-ASSISTANT/assets/85174767/d1cbf
 - Pinecone 
 - Llama-3
 ## Demonstration Video
-- Video link - https://youtu.be/k3JLvRpqUhI
+- Video link - https://drive.google.com/file/d/1PsLNQ4fjz13_P5Yx5KsYtPi3qndbGnLh/view?usp=drive_link
