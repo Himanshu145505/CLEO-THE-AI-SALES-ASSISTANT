@@ -30,7 +30,7 @@ CLEO is a revolutionary tool designed to streamline the sales process by gatheri
 2. **Architechture:**
 
    Architechture Diagram
-![WhatsApp Image 2024-04-28 at 10 49 01 PM](https://github.com/Himanshu145505/CLEO-THE-SALES-ASSISTANT/assets/128281067/dce4d192-fb6a-4c67-b4a2-6821a36757c7)
+![WhatsApp Image 2024-04-28 at 10 49 01 PM](https://github.com/Himanshu/CLEO-THE-SALES-ASSISTANT/assets/128281067/dce4d192-fb6a-4c67-b4a2-6821a36757c7)
 
 | Component            | Functionality                                                                        |
 |----------------------|--------------------------------------------------------------------------------------|
