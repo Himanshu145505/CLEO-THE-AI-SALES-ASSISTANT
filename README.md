@@ -113,7 +113,6 @@ CLEO is a revolutionary tool designed to streamline the sales process by gatheri
 
 ## Demo:
 - Video link - https://drive.google.com/file/d/1PsLNQ4fjz13_P5Yx5KsYtPi3qndbGnLh/view?usp=drive_link
-- Call Audio (Recorded)
 
 
 https://github.com/Himanshu145505/CLEO-THE-SALES-ASSISTANT/assets/85174767/d1cbf54e-7aef-4fd7-9001-93f5903e25e9
