@@ -7,7 +7,6 @@ CLEO is a revolutionary tool designed to streamline the sales process by gatheri
 - [Installation](#installation)
 - [Setup](#setup)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
 - [Tech Stack](#tech-stack)
 
 ## Overview and Architecture
