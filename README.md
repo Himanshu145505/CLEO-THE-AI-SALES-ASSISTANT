@@ -116,8 +116,7 @@ The assistant engages users interactively, extracting essential details from doc
 ## Demo:
 - Video link - https://drive.google.com/file/d/1PsLNQ4fjz13_P5Yx5KsYtPi3qndbGnLh/view?usp=drive_link
 
-## AUDIO DEMO
-https://github.com/Himanshu145505/CLEO-THE-SALES-ASSISTANT/assets/85174767/d1cbf54e-7aef-4fd7-9001-93f5903e25e9
+
 
 
 
